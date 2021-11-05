@@ -1,3 +1,5 @@
+# Create a new VK app https://vk.com/apps?act=manage
+# Create `secret.py` file with APP_ID and TOKEN values from your app
 from secret import APP_ID, TOKEN
 
 import vk
